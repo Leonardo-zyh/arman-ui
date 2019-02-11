@@ -28,6 +28,4 @@ export {
 // Vue.component('ATabsContent',ATabsContent)
 // Vue.component('ACollapse',ACollapse)
 // Vue.component('ACollapseItem',ACollapseItem)
-// Vue.component('AToastPlugin',AToastPlugin)
-// Vue.component('AToastPlugin',AToastPlugin)
 // Vue.use(AToastPlugin)
