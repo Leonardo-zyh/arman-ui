@@ -1,0 +1,23 @@
+{
+  "name": "arman-ui",
+  "version": "0.0.1",
+  "description": "一个ui框架",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arman19941113/arman-ui.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "arman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arman19941113/arman-ui/issues"
+  },
+  "homepage": "https://github.com/Arman19941113/arman-ui#readme"
+}
