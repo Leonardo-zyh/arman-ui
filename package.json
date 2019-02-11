@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "一个ui框架",
   "main": "dist/index.js",
+  "alias": {
+    "vue": "./node_modules/vue/dist/vue.common.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
