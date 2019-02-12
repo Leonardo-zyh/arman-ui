@@ -17,3 +17,6 @@
 	    }
     }
 </script>
+<style>
+	*,*::before,*::after{box-sizing:border-box;}
+</style>
