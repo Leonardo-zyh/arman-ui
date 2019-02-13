@@ -1,4 +1,4 @@
-# 一个 vue UI 组件
+# 一个简单好用的 UI 框架
 
 ## 介绍
 这是我在学习 VUE 过程中做的一个 UI 框架。[➝文档链接](https://arman19941113.github.io/arman-ui/)
