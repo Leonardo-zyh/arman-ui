@@ -15,5 +15,5 @@ cd docs/.vuepress/dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:gitArman19941113/arman-ui.git master:gh-pages
+git push -f git@github.com:Arman19941113/arman-ui.git master:gh-pages
 cd -
