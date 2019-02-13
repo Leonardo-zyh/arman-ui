@@ -1,4 +1,5 @@
 module.exports={
+    base:/arman-ui/,
     title:'arman-ui',
     description:'一个简单好用的UI框架',
     head:[
