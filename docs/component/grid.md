@@ -46,3 +46,15 @@ m：`≤992px`响应式栅格数，s：`≤576px`响应式栅格数
 </a-row>
 ```
 
+**栅格默认样式**
+
+```css
+.a-row{display:flex;flex-flow:wrap}
+.a-col{
+    display:flex;justify-content:center;align-items:center;
+    margin-top:10px;margin-bottom:10px;
+    height:100px;width:100%;
+    border:2px solid #00A0E9;
+}
+```
+
